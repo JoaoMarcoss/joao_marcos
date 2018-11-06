@@ -1,1 +1,1 @@
-Códigos das atividades referentes às disciplinas de LP1 e P1.
+Repositório para a disciplina de P1/LP1. UFAL - Arapiraca
